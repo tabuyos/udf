@@ -1,4 +1,4 @@
-*.FASL
+*.Fasl
 *.fasl
 *.lisp-temp
 *.dfsl
@@ -15,3 +15,6 @@
 *.sx32fsl
 *.wx64fsl
 *.wx32fsl
+
+# user
+
