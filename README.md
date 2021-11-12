@@ -15,6 +15,7 @@ The purpose of creating this project is to collect UDF, including programming la
 - [x] Java
 - [ ] Python
 - [ ] R
+- [ ] Git
 
 ## Common Lisp
 
@@ -43,3 +44,8 @@ The purpose of creating this project is to collect UDF, including programming la
 ## R
 
 - [ ] intro
+
+## Git
+
+- [x] intro
+- [x] how to create a new empty branch

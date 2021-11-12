@@ -1,0 +1,18 @@
+; create a new orphan branch
+; orphan: branch will have no parents and it will be the root of a new history totally disconnected from all the other branches and commits.
+git checkout --orphan new_branch
+
+; add all of file to workspace
+git add -A
+
+; add new commit message and commit
+git commit -am "commit message"
+
+; delete old branch
+git branch -D old_branch
+
+; rename current branch name to main
+git branch -m main
+
+; push to remote branch
+git push origin main
